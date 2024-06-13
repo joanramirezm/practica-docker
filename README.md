@@ -1,0 +1,3 @@
+# Practica Docker
+
+# PARA CORRERLO: DOCKER COMPOSER UP
